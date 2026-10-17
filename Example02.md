@@ -1,2 +1,2 @@
-This is some some text
-This is a better text
+This is some text
+This is another text
